@@ -1,5 +1,5 @@
 # Verisign Namestore Extension Mapping for EPP Client
-![Build Status](https://github.com/struzik-vladislav/epp-ext-verisign-namestore/actions/workflows/ci.yml/badge.svg?branch=master)
+![Build Status](https://github.com/struzik-vladislav/epp-ext-verisign-namestore/actions/workflows/ci.yml/badge.svg?branch=main)
 [![Latest Stable Version](https://img.shields.io/github/v/release/struzik-vladislav/epp-ext-verisign-namestore?sort=semver&style=flat-square)](https://packagist.org/packages/struzik-vladislav/epp-ext-verisign-namestore)
 [![Total Downloads](https://img.shields.io/packagist/dt/struzik-vladislav/epp-ext-verisign-namestore?style=flat-square)](https://packagist.org/packages/struzik-vladislav/epp-ext-verisign-namestore/stats)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
